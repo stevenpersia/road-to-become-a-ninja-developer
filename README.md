@@ -121,10 +121,10 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] MySQL
     
 ### Framework
-- [x] Express.js
+- [x] Express.js - [JSPOWER.io back end](https://github.com/stevenpersia/jspower-api) & [Human Challenge back end](https://github.com/stevenpersia/hc-back-end) 
     
 ### NoSQL database
-- [x] MongoDB
+- [x] MongoDB - [JSPOWER.io back end](https://github.com/stevenpersia/jspower-api) & [Human Challenge back end](https://github.com/stevenpersia/hc-back-end) 
     
 ### Caching
 - [ ] Memcached
@@ -133,7 +133,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 ### Authentication / Authorization methodologies
 - [ ] OAuth
 - [ ] Basic authentication
-- [x] Token authentication - [JSPOWER.io Back end](https://github.com/stevenpersia/jspower-api) & [Human Challenge Back end](https://github.com/stevenpersia/hc-back-end) 
+- [x] Token authentication - [JSPOWER.io back end](https://github.com/stevenpersia/jspower-api) & [Human Challenge back end](https://github.com/stevenpersia/hc-back-end) 
 - [ ] JWT
 - [ ] OpenID
     
