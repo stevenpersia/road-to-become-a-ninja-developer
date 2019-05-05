@@ -41,14 +41,14 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 
 ### Package managers
 - [ ] Yarn
-- [x] NPM - [NPM Package of framework A119](https://www.npmjs.com/package/a119)  
+- [x] NPM - [Framework A119](https://www.npmjs.com/package/a119)  
     
 ### CSS pre-processors
 - [ ] SASS
     
 ### CSS frameworks
 - [x] Bootstrap
-- [x] Material UI - [JSPOWER.IO](https://github.com/stevenpersia/jspower.io)
+- [x] Material UI - [JSPOWER.io](https://github.com/stevenpersia/jspower.io)
     
 ### CSS architecture
 - [ ] BEM
@@ -64,7 +64,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] Webpack
     
 ### ReactJS
-- [ ] React.js
+- [x] React.js - [Leboncoin](https://github.com/stevenpersia/leboncoin-react) & [Deliveroo](https://github.com/stevenpersia/deliveroo-react) & [TO DO List](https://github.com/stevenpersia/todo-list-react) & [Allociné](https://github.com/stevenpersia/allocine-react)
 - [ ] Redux
 - [x] Overmind
 - [ ] Next.js
@@ -133,7 +133,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 ### Authentication / Authorization methodologies
 - [ ] OAuth
 - [ ] Basic authentication
-- [x] Token authentication - [JSPOWER.IO](https://github.com/stevenpersia/jspower.io)
+- [x] Token authentication - [JSPOWER.io Back end](https://github.com/stevenpersia/jspower-api) & [Human Challenge Back end](https://github.com/stevenpersia/hc-back-end) 
 - [ ] JWT
 - [ ] OpenID
     
