@@ -1,7 +1,7 @@
 # Road to be a ninja developer.
 All technologies and tools I need to know.
-As long as I can, I will put links where I used technology or tools.
-Ticking a technology or a tool does not necessarily indicate that I am an expert with but that I have at least the basics.
+As long as I can, I will put links where I used technologies or tools.
+Ticking a technology or a tool does not necessarily indicate that I am an expert with it but that I have at least the basics.
 
 ## Front End
 
