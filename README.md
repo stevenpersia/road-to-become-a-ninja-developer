@@ -1,4 +1,5 @@
 # Road to be a ninja developer.
+<img src="https://media.giphy.com/media/13t3hECDcb5Rmg/giphy.gif" alt="NINJA" />
 All technologies and tools I need to know.
 As long as I can, I will put links where I used technologies or tools.
 Ticking a technology or a tool does not necessarily indicate that I am an expert with it but that I have at least the basics.
@@ -164,3 +165,5 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 ## Bonus
 - [ ] Elixir
 - [ ] Phoenix
+
+<img src="https://media.giphy.com/media/FagB4YA5A8xWg/giphy.gif" alt="NINCHAT" />
