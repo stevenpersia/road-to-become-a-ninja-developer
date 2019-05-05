@@ -1,4 +1,4 @@
-# Road to be a ninja developer.
+# Road to become a ninja developer.
 <img src="https://media.giphy.com/media/13t3hECDcb5Rmg/giphy.gif" alt="NINJA" />
 All technologies and tools I need to know.
 As long as I can, I will put links where I used technologies or tools.
@@ -87,6 +87,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
         
 ### Type checkers
 - [ ] Typescript
+- [ ] ReasonML
     
 ### Mobile application
 - [x] React Native - [Tinder clone](https://github.com/stevenpersia/tinder-react-native) & [Human Challenge app](https://github.com/stevenpersia/hc-front-end)
