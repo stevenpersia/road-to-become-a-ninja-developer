@@ -1,4 +1,4 @@
-# Road to master.
+# Road to be a ninja developer.
 All technologies and tools I need to know.
 As long as I can, I will put links where I used technology or tools.
 Ticking a technology or a tool does not necessarily indicate that I am an expert with but that I have at least the basics.
@@ -21,7 +21,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [x] Flex Box
 - [x] Media queries
 - [x] CSS 3
-- [x] Variable
+- [x] Variable - [Framework A119](https://github.com/stevenpersia/a119) 
     
 ### Javascript
 - [x] Syntax and basic constructs
@@ -41,14 +41,14 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 
 ### Package managers
 - [ ] Yarn
-- [x] NPM
+- [x] NPM - [NPM Package of framework A119](https://www.npmjs.com/package/a119)  
     
 ### CSS pre-processors
 - [ ] SASS
     
 ### CSS frameworks
 - [x] Bootstrap
-- [x] Material UI
+- [x] Material UI - [JSPOWER.IO](https://github.com/stevenpersia/jspower.io)
     
 ### CSS architecture
 - [ ] BEM
@@ -88,14 +88,14 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] Typescript
     
 ### Mobile application
-- [x] React Native
+- [x] React Native - [Tinder clone](https://github.com/stevenpersia/tinder-react-native) & [Human Challenge app](https://github.com/stevenpersia/hc-front-end)
     
 ### Static site generators
 - [ ] GatsbyJS
     
 ### Desktop application
-- [ ] Electron
-    
+- [ ] Electron - [Netflix desktop app](https://github.com/stevenpersia/netflix-desktop-app) & [Cosynk desktop app](https://github.com/stevenpersia/cosynk-desktop-app)
+
 ### Progressive web apps
 - [ ] Storage
 - [ ] Web sockets
@@ -133,7 +133,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 ### Authentication / Authorization methodologies
 - [ ] OAuth
 - [ ] Basic authentication
-- [x] Token authentication
+- [x] Token authentication - [JSPOWER.IO](https://github.com/stevenpersia/jspower.io)
 - [ ] JWT
 - [ ] OpenID
     
