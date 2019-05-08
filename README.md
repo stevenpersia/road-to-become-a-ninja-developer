@@ -150,11 +150,11 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] Apache
 - [ ] Nginx
 
-### Others
+## Others
 - [ ] Web sockets
 - [ ] GraphQL - [Pokedex](https://github.com/stevenpersia/gatsby-pokedex)
 - [ ] Docker
-- [ ] RESTful APIs
+- [x] RESTful APIs
 
 ## Books
 - [ ] Clean Code (Read in progress...)
