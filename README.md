@@ -22,11 +22,11 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [x] Flex Box
 - [x] Media queries
 - [x] CSS 3
-- [x] Variable - [Framework A119](https://github.com/stevenpersia/a119) 
+- [x] Variable - [Framework A119](https://github.com/stevenpersia/a119)
     
 ### Javascript
 - [x] Syntax and basic constructs
-- [ ] Learn DOM manipulation
+- [ ] Learn DOM manipulation - [JS Clock](https://codesandbox.io/s/lp3px2n79)
 - [ ] Learn fetch API / Ajax (XHR)
 - [x] ES6+ and modular Javascript
 
