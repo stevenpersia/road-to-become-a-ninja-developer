@@ -56,7 +56,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] BEM
     
 ### Linters and formatters
-- [ ] Prettier
+- [x] Prettier
 - [ ] ESLint
     
 ### Task runner
