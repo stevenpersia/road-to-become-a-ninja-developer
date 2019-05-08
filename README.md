@@ -67,7 +67,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 ### ReactJS
 - [x] React.js - [Leboncoin](https://github.com/stevenpersia/leboncoin-react) & [Deliveroo](https://github.com/stevenpersia/deliveroo-react) & [TO DO List](https://github.com/stevenpersia/todo-list-react) & [Allociné](https://github.com/stevenpersia/allocine-react)
 - [ ] Redux
-- [x] Overmind
+- [x] Overmind.js
 - [ ] Next.js
     
 ### CSS in JS
@@ -93,7 +93,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [x] React Native - [Tinder clone](https://github.com/stevenpersia/tinder-react-native) & [Human Challenge app](https://github.com/stevenpersia/hc-front-end)
     
 ### Static site generators
-- [ ] GatsbyJS
+- [ ] GatsbyJS - [Pokedex](https://github.com/stevenpersia/gatsby-pokedex)
     
 ### Desktop application
 - [ ] Electron - [Netflix desktop app](https://github.com/stevenpersia/netflix-desktop-app) & [Cosynk desktop app](https://github.com/stevenpersia/cosynk-desktop-app)
@@ -152,7 +152,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 
 ### Others
 - [ ] Web sockets
-- [ ] GraphQL
+- [ ] GraphQL - [Pokedex](https://github.com/stevenpersia/gatsby-pokedex)
 - [ ] Docker
 - [ ] RESTful APIs
 
