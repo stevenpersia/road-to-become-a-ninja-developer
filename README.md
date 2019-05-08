@@ -26,7 +26,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
     
 ### Javascript
 - [x] Syntax and basic constructs
-- [ ] Learn DOM manipulation - [JS Clock](https://codesandbox.io/s/lp3px2n79)
+- [ ] Learn DOM manipulation - [JS Clock](https://codesandbox.io/s/lp3px2n79) & [15 methods on my CodePen](https://codepen.io/collection/nqEdmw/)
 - [ ] Learn fetch API / Ajax (XHR)
 - [x] ES6+ and modular Javascript
 
