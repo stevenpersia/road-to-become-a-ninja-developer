@@ -18,7 +18,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [x] Positioning
 - [x] Display
 - [x] Box model
-- [ ] CSS Grid
+- [x] CSS Grid
 - [x] Flex Box
 - [x] Media queries
 - [x] CSS 3
@@ -73,7 +73,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] Context API
     
 ### CSS in JS
-- [ ] Styled components
+- [x] Styled components - *Secret project, soon...*
 - [ ] CSS modules
 - [ ] Emotion
     
@@ -98,7 +98,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] GatsbyJS - [Pokedex](https://github.com/stevenpersia/gatsby-pokedex)
     
 ### Desktop application
-- [ ] Electron - [Netflix desktop app](https://github.com/stevenpersia/netflix-desktop-app) & [Cosynk desktop app](https://github.com/stevenpersia/cosynk-desktop-app)
+- [x] Electron - [Netflix desktop app](https://github.com/stevenpersia/netflix-desktop-app) & [Cosynk desktop app](https://github.com/stevenpersia/cosynk-desktop-app)
 
 ### Progressive web apps
 - [ ] Storage
@@ -114,7 +114,6 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 
 ### Node.js
 - [x] Node.js
-- [ ] TypeScript
     
 ### Testing
 - [ ] Mocha
@@ -168,5 +167,6 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 ## Bonus
 - [ ] Elixir
 - [ ] Phoenix
+- [x] Svelte - *My portfolio, soon...*
 
 <img src="https://media.giphy.com/media/FagB4YA5A8xWg/giphy.gif" alt="NINCHAT" />
