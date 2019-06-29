@@ -70,7 +70,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] Redux
 - [x] Overmind.js
 - [ ] Next.js
-- [ ] Context API
+- [x] Context API
     
 ### CSS in JS
 - [x] Styled components - *Secret project, soon...*
