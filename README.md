@@ -121,7 +121,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] Jasmine
     
 ### Relational database
-- [ ] MySQL
+- [x] MySQL
     
 ### Framework
 - [x] Express.js - [JSPOWER.io back end](https://github.com/stevenpersia/jspower-api) & [Human Challenge back end](https://github.com/stevenpersia/hc-back-end) 
