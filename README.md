@@ -73,7 +73,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [x] Context API
     
 ### CSS in JS
-- [x] Styled components - *Secret project, soon...*
+- [x] Styled components
 - [ ] CSS modules
 - [ ] Emotion
     
@@ -88,7 +88,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [ ] Functional
         
 ### Type checkers
-- [ ] Typescript
+- [x] Typescript
 - [ ] ReasonML
     
 ### Mobile application
@@ -167,6 +167,6 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 ## Bonus
 - [ ] Elixir
 - [ ] Phoenix
-- [x] Svelte - *My portfolio, soon...*
+- [x] Svelte
 
 <img src="https://media.giphy.com/media/FagB4YA5A8xWg/giphy.gif" alt="NINCHAT" />
