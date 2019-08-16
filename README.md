@@ -154,7 +154,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 ## Others
 - [ ] Web sockets
 - [ ] GraphQL - [Pokedex](https://github.com/stevenpersia/gatsby-pokedex)
-- [ ] Docker
+- [x] Docker
 - [x] RESTful APIs
 
 ## Books
