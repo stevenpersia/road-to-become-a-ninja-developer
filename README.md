@@ -95,7 +95,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
 - [x] React Native - [Tinder clone](https://github.com/stevenpersia/tinder-react-native) & [Human Challenge app](https://github.com/stevenpersia/hc-front-end)
     
 ### Static site generators
-- [ ] GatsbyJS - [Pokedex](https://github.com/stevenpersia/gatsby-pokedex)
+- [x] GatsbyJS - [Pokedex](https://github.com/stevenpersia/gatsby-pokedex)
     
 ### Desktop application
 - [x] Electron - [Netflix desktop app](https://github.com/stevenpersia/netflix-desktop-app) & [Cosynk desktop app](https://github.com/stevenpersia/cosynk-desktop-app)
@@ -135,7 +135,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
     
 ### Authentication / Authorization methodologies
 - [ ] OAuth
-- [ ] Basic authentication
+- [x] Basic authentication
 - [x] Token authentication - [JSPOWER.io back end](https://github.com/stevenpersia/jspower-api) & [Human Challenge back end](https://github.com/stevenpersia/hc-back-end) 
 - [ ] JWT
 - [ ] OpenID
