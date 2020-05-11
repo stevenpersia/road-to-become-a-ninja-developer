@@ -57,7 +57,7 @@ Ticking a technology or a tool does not necessarily indicate that I am an expert
     
 ### Linters and formatters
 - [x] Prettier
-- [ ] ESLint
+- [x] ESLint
     
 ### Task runner
 - [ ] NPM scripts
